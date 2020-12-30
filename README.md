@@ -8,3 +8,4 @@ Tested here: https://canary.discord.com/channels/333949691962195969/508739007597
 ## Help commands
 ![help](https://i.imgur.com/RW3Tltn.png)
 ![Help command](https://i.imgur.com/e4QDvZ6.png)
+![help](https://i.imgur.com/X0okn8U.png)
